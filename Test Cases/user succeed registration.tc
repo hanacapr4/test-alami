@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>user succeed registration</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8f3c3e53-cc53-4065-9c0b-b21321eff70f</testCaseGuid>
+   <variable>
+      <defaultValue>'Ken'</defaultValue>
+      <description></description>
+      <id>2a637bac-05be-4202-891b-6d5b3bd12a5e</id>
+      <masked>false</masked>
+      <name>firstname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Hammes'</defaultValue>
+      <description></description>
+      <id>52b7562b-3f56-4115-9322-127e7f45d440</id>
+      <masked>false</masked>
+      <name>lastname</name>
+   </variable>
+   <variable>
+      <defaultValue>'kenhammes@gmail.com'</defaultValue>
+      <description></description>
+      <id>af090471-0b7b-48de-8f75-149d4c008485</id>
+      <masked>false</masked>
+      <name>email_notelp</name>
+   </variable>
+   <variable>
+      <defaultValue>'kenhammes@gmail.com'</defaultValue>
+      <description></description>
+      <id>4bc84e7b-cdba-448a-a2fa-4cf03da96065</id>
+      <masked>false</masked>
+      <name>email_notelp_confirmation</name>
+   </variable>
+   <variable>
+      <defaultValue>'iGxx6eqahH0='</defaultValue>
+      <description></description>
+      <id>fe460512-5f49-458d-bc63-9e8da593cd19</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'4'</defaultValue>
+      <description></description>
+      <id>79c91c1a-f4ca-4d0d-a027-8bb4d8883205</id>
+      <masked>false</masked>
+      <name>day</name>
+   </variable>
+   <variable>
+      <defaultValue>'1998'</defaultValue>
+      <description></description>
+      <id>bc306322-99f6-45f2-8ba0-ec88833c5c97</id>
+      <masked>false</masked>
+      <name>year</name>
+   </variable>
+</TestCaseEntity>

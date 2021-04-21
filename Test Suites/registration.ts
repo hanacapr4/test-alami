@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>registration</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>115f504a-5687-487b-a6d3-76e57456198b</testSuiteGuid>
+   <testCaseLink>
+      <guid>e4852812-5ba0-4911-b2a3-5e0365a83fc6</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/user succeed registration</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9901091b-091f-4db4-a425-e2e52c1bb8cf</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/data</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>firstname</value>
+         <variableId>2a637bac-05be-4202-891b-6d5b3bd12a5e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>lastname</value>
+         <variableId>52b7562b-3f56-4115-9322-127e7f45d440</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email_notelp</value>
+         <variableId>af090471-0b7b-48de-8f75-149d4c008485</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>email_notelp_confirmation</value>
+         <variableId>4bc84e7b-cdba-448a-a2fa-4cf03da96065</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>password</value>
+         <variableId>fe460512-5f49-458d-bc63-9e8da593cd19</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>day</value>
+         <variableId>79c91c1a-f4ca-4d0d-a027-8bb4d8883205</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9901091b-091f-4db4-a425-e2e52c1bb8cf</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>year</value>
+         <variableId>bc306322-99f6-45f2-8ba0-ec88833c5c97</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4feb604-ef24-4211-990b-6f1c4f288499</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/user failed registration</testCaseId>
+   </testCaseLink>
+</TestSuiteEntity>
